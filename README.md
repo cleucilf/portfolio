@@ -1,3 +1,6 @@
+![Portfolio Preview](assets/images/preview.png)
+
+
 # Portfolio
 
 A personal portfolio website showcasing my projects, technical skills, and approach to problem solving. The website was built from scratch using HTML and CSS as a way to learn front-end web development while creating a professional portfolio.
